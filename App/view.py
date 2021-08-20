@@ -40,9 +40,9 @@ operación solicitada
 
 def printMenu():
     print("Opciones:")
-    print("1- Cargar Libros")
-    print("2- Cargar Tags")
-    # TODO: Modificación de Est-1 en el Lab 2
+    print("1- Cargar libros")
+    print("2- Cargar tags")
+    print("3- Cargar book-tags")
     print("0- Salir")
 
 
