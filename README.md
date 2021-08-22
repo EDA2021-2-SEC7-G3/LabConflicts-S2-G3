@@ -4,6 +4,11 @@ Este proyecto busca mostrar una posible forma de organizar el código que se va 
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
 
+-Est1:
+    José Daniel Montero Gutiérrez, j.monterog@uniandes.edu.co, 202012732 
+    
+-Est2:    David Zamora Cortés, d.zamorac@uniandes.edu.co, 202113407
+
 La estructura tiene los siguiente directorios y archivos:
 
 -App
