@@ -50,7 +50,7 @@ def loadBooks():
     """
     Carga los libros
     """
-    return controller.loadBooks('GoodReads/books-small.csv')
+    return controller.loadBooks('GoodReads/books.csv')
 
 
 def loadTags():
@@ -64,7 +64,7 @@ def loadBookTags():
     """
     Cargar los Tags de libros
     """
-    return controller.loadBooksTags('GoodReads/book_tags-small.csv')
+    return controller.loadBooksTags('GoodReads/book_tags.csv')
 
 def lastelement(books):
     print('Último libro cargado: ' + str(lt.lastElement(books)))
