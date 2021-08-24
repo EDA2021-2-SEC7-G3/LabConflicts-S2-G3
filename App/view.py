@@ -66,8 +66,6 @@ def loadBookTags():
     """
     # TODO: Modificación de Est-1 en el Lab 2
 
-    pass
-
 def lastelement(books):
     print('Último libro cargado: ' + str(lt.lastElement(books)))
 
